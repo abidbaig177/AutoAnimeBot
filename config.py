@@ -12,9 +12,9 @@ MONGO_DB_URI = getenv("mongodb+srv://TELEGRAM:TELEGRAM@cluster0.tznsnwb.mongodb.
 INDEX_ID = int(getenv("-1001963941283"))
 UPLOADS_ID = int(getenv("-1001909816933"))
 
-STATUS_ID = int(getenv("STATUS_ID"))
-SCHEDULE_ID = int(getenv("SCHEDULE_ID"))
+STATUS_ID = int(getenv("-1001909816933"))
+SCHEDULE_ID = int(getenv("-1001909816933"))
 
-CHANNEL_TITLE = getenv("CHANNEL_TITLE")
-INDEX_USERNAME = getenv("INDEX_USERNAME")
-UPLOADS_USERNAME = getenv("UPLOADS_USERNAME")
+CHANNEL_TITLE = getenv("@Anime_pirates")
+INDEX_USERNAME = getenv("@Auto_animes_channelindex")
+UPLOADS_USERNAME = getenv("@Auto_animes_channel")
